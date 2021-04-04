@@ -14,7 +14,7 @@
     <img alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
     <img alt="Herokku" width="46px" src="https://www.pngrepo.com/png/303683/180/heroku-logo.png">
     <img alt="Firebase" width="37px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png">
-    <img alt="Linux" width="50px" src="http://pngimg.com/uploads/linux/linux_PNG27.png">
+    <img alt="Linux" width="43px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png">
 </p>
   <br />
   <br />
