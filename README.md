@@ -8,6 +8,7 @@
     <img alt="Sass" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
     <img alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
     <img alt="React" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+    <img alt="D3.js" width="47px" src="https://avatars.githubusercontent.com/u/1562726?s=400&v=4">
     <img alt="Node.js" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
     <img alt="MongoDB" width="46px" src="https://img.icons8.com/color/452/mongodb.png">
     <img alt="Firebase" width="37px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png">
@@ -16,6 +17,7 @@
     <img alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
     <img alt="Herokku" width="46px" src="https://www.pngrepo.com/png/303683/180/heroku-logo.png">
     <img alt="Netlify" width="47px" src="https://www.netlify.com/img/press/logos/logomark.png">
+ 
     
 </p>
   <br />
