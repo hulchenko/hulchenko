@@ -12,11 +12,8 @@
     <img alt="Firebase" width="37px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png">
     <img alt="Herokku" width="46px" src="https://www.pngrepo.com/png/303683/180/heroku-logo.png">
     <img alt="Netlify" width="47px" src="https://www.netlify.com/img/press/logos/logomark.png">
- 
-    
 </p>
-  <br />
-  <br />
+
   <img width="54%"
     src="https://github-readme-stats.vercel.app/api?username=hulchenko&show_icons=true&theme=react"
   /><img width="45%"
