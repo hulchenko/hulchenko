@@ -19,12 +19,9 @@
 </p>
   <br />
   <br />
-  <img width="385px"
+  <img width="54%"
     src="https://github-readme-stats.vercel.app/api?username=hulchenko&show_icons=true&theme=react&&hide_border=true"
-  />
- <br />
-  <br />
-         <img width="385px"
+  /><img width="45%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulchenko&layout=compact&&theme=react&&hide_border=true"
   />
 </div>
