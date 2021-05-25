@@ -1,6 +1,4 @@
 <div align="center">
-  <h1>&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-  <br/>
 <p align="center">
     <img alt="Linux" width="43px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png">
     <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
