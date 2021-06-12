@@ -11,6 +11,7 @@
     <img alt="Firebase" width="37px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png">
     <img alt="Herokku" width="46px" src="https://www.pngrepo.com/png/303683/180/heroku-logo.png">
     <img alt="Netlify" width="47px" src="https://www.netlify.com/img/press/logos/logomark.png">
+    <img alt="AWS" width="42px" src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg">
     <img alt="Ansible" width="47px" src="https://miro.medium.com/max/432/1*w0iIGUfsxNXvUBKqrC_uSA.png">
     <img alt="Jenkins" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png">
     <img alt="Terraform" width="47px" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png">
