@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-    <img alt="Linux" width="35px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png">
+    <img alt="Linux" width="45px" src="http://pngimg.com/uploads/linux/linux_PNG42.png">
     <img alt="HTML5" width="46px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
     <img alt="CSS3" width="46px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png">
     <img alt="Sass" width="46px" src="https://andrewsmithdeveloper.com/img/sass-new.4c1dd90f.png">
