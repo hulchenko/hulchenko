@@ -6,7 +6,5 @@
     <img alt="Angular" width="50px" src="https://angular.io/assets/images/logos/angular/angular.svg">
     <img alt="AWS" width="42px" src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg">
 </p>
-<img width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulchenko&layout=compact&&theme=react"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulchenko&layout=compact&&theme=react" />
 </div>
