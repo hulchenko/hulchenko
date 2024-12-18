@@ -1,7 +1,4 @@
 <div align="center">
-<h1>:v:</h1>
-<h3>Personal Discovery:</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulchenko&hide=css,scss,less,html&layout=compact&&theme=tokyonight" />
 <h3>Professional Experience:</h3>
 <p align="center">
     <img alt="AWS" width="42px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146237.png">
@@ -12,4 +9,6 @@
     <img alt="PostgreSQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
     <img alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg">
 </p>
+<h3>Personal Discovery:</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulchenko&hide=css,scss,less,html&layout=compact&&theme=tokyonight"/>
 </div>
