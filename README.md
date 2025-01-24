@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Professional Experience:</h3>
 <p align="center">
-    <img alt="AWS" width="42px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146237.png">
+    <img alt="AWS" width="42px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png">
     <img alt="JavaScript" width="43px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png">
     <img alt="TypeScript" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
     <img alt="Angular" width="50px" src="https://angular.io/assets/images/logos/angular/angular.svg">
